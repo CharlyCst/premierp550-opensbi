@@ -2,4 +2,4 @@ meta-sifive
 u-boot
 u-boot.bin
 opensbi
-fw_payload
+fw_payload.bin
